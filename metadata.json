@@ -1,0 +1,5 @@
+{
+  "name": "Android Video Interceptor Guide",
+  "description": "A guide and code generator for an Android app that intercepts video capture intents and opens the gallery instead.",
+  "requestFramePermissions": []
+}
